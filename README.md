@@ -8,11 +8,11 @@ The button on the right side can be touched to start / stop a measurement sessio
 The display shows the following values:
 -----------------------------------------------------------------------
 
-- I --> Current from recent measurement.
-- Imax --> Maximum current measured in the running session.
-- U --> Voltage from recent measurement.
-- P --> Power from recent measurement.
-- W --> Consumed work of consumer in the running session.
+- I - Current from recent measurement.
+- Imax - Maximum current measured in the running session.
+- U - Voltage from recent measurement.
+- P - Power from recent measurement.
+- W - Consumed work of consumer in the running session.
 
 
 The graph shows the course of the consumed current. The scaling of the graph will be adusted automatically, depending on the measured current level.
