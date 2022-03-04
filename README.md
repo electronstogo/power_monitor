@@ -16,3 +16,12 @@ The display shows the following values:
 
 
 The graph shows the course of the consumed current. The scaling of the graph will be adusted automatically, depending on the measured current level.
+
+
+Components in use:
+-----------------------------------------------------------------------
+
+- Raspberry pico
+- INA219 sensor
+- 3.5 display with ILI9488 controller
+- A case from an old battery loading station
