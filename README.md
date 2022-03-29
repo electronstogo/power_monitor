@@ -25,3 +25,10 @@ Components in use:
 - INA219 sensor
 - 3.5 display with ILI9488 controller
 - A case from an old battery loading station
+
+
+
+Find a video here:
+https://www.youtube.com/watch?v=rBTZvIADVWQ
+
+
